@@ -1,0 +1,113 @@
+        
+                                                                        IDEA - 1 (EDUCATION FIELD)
+         
+PROJECT TITLE: Intelligent Tutor for Personalised Learning
+
+
+A SHORT DESCRIPTION OF THE PROJECT: Develop an intelligent tutor that will create personalised learning path based on individual strengths, weaknesses, and learning styles.It will also provide personalized feedback, guidance, and support to students. Also it can provide adaptive assignments based on the student's performance.
+
+
+INPUT OF THE PROJECT: Student's profile with informations such as strength, goals, weakness, learning style, interest, etc.
+
+
+OUTPUT OF THE PROJECT: Personalised learning path, feedback, adaptive assessments, progress report.
+
+
+USE CASE OF THE PROJECT: Students can use this as a personal teacher to educate themselves with proper guidance and support that will not only teach them but also track their progress, give them feedbacks and reports so that they can work on those areas where they are lagging.
+It will also give assignments based on the mental abilty and progress.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+                                                                        IDEA - 2 (AGRICULTURE FIELD)                                                                 
+
+
+PROJECT TITLE: Smart Farming Management System
+
+A SHORT DESCRIPTION OF THE PROJECT: Develop a smart farm management system that optimizes farming operations, enhances productivity, and promotes sustainability. It offers real-time monitoring, recommendations for irrigation and fertilization, and many other insights.
+
+
+INPUT OF THE PROJECT:
+
+Sensor data (temperature, humidity, soil moisture, etc.)
+Weather forecasts
+Crop and field information
+Historical farming data
+
+
+OUTPUT OF THE PROJECT:
+
+Real-time monitoring, recommendations for irrigation and fertilization, disease detection, predictive yield insights.
+
+
+USE CASE OF THE PROJECT:
+
+Precision irrigation, crop monitoring, disease management, yield prediction, resource optimization.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                              
+                                                                             IDEA - 3 (PARKING FIELD)
+
+
+PROJECT TITLE: Parking Guidance System with Automated Payment
+
+
+A SHORT DESCRIPTION OF THE PROJECT:
+
+The project aims to develop a parking guidance and automated system that assists drivers in finding available parking spaces within a parking facility and help secure contactless payment.
+
+
+INPUT OF THE PROJECT:
+
+Real-time sensor data from parking spaces (occupied or vacant)
+User location within the parking facility
+Digital payment information (credit/debit cards, mobile payment apps, etc.)
+
+
+OUTPUT OF THE PROJECT:
+
+Real-time updates with directions and guidance on the availability of parking spaces
+Secure contactless digital payment
+
+
+USE CASE OF THE PROJECT:
+
+Time Efficiency, Reduced Traffic Congestion, Improved User Experience, Contactless Payment.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                        IDEA - BONUS (cYBERSECURITY FIELD)                        
+
+
+PROJECT TITLE: Secure Password Management System with Two-Factor Authentication (2FA) Integration
+
+
+A SHORT DESCRIPTION OF THE PROJECT: Develop a secure password management system that not only enables users to store and manage their passwords securely but also integrates two-factor                   authentication (2FA) for an added layer of security. 
+
+
+INPUT OF THE PROJECT:
+
+  User-provided passwords with prefrences of complexity and length
+  User preferences for 2FA methods (e.g., SMS, authenticator apps, hardware tokens)
+
+
+OUTPUT OF THE PROJECT:
+
+  Password generation and storage in encrypted and centralized password repository
+  Integration with chosen 2FA methods for enhanced authentication
+
+
+USE CASE OF THE PROJECT: 
+
+  Both strong passwords and multi-factor authentication for granting access, 
+  Secure storage and password management, 
+  Secure access and synchronization with devices reducing risk 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
